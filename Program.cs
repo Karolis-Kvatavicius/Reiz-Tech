@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // ClockAngle.countClockAngle();
+        ClockAngle.countClockAngle();
         Tree.countTreeDepth();
     }
 }
