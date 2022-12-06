@@ -1,0 +1,15 @@
+C:\Users\karol\Desktop\Reiz Tech\bin\Debug\net6.0\Reiz Tech.exe
+C:\Users\karol\Desktop\Reiz Tech\bin\Debug\net6.0\Reiz Tech.deps.json
+C:\Users\karol\Desktop\Reiz Tech\bin\Debug\net6.0\Reiz Tech.runtimeconfig.json
+C:\Users\karol\Desktop\Reiz Tech\bin\Debug\net6.0\Reiz Tech.dll
+C:\Users\karol\Desktop\Reiz Tech\bin\Debug\net6.0\Reiz Tech.pdb
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.AssemblyInfo.cs
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.dll
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\refint\Reiz Tech.dll
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.pdb
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\Reiz Tech.genruntimeconfig.cache
+C:\Users\karol\Desktop\Reiz Tech\obj\Debug\net6.0\ref\Reiz Tech.dll
